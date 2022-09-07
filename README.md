@@ -1,0 +1,2 @@
+# g726_ffmpeg_use_Interface
+使用ffmpeg内部接口函数,从而实现g726编解码器的移植使用
